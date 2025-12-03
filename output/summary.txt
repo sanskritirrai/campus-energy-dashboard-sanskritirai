@@ -1,0 +1,4 @@
+total_campus_consumption,165080
+highest_consuming_building,Building_C
+peak_load_time,2024-03-12 00:00:00
+weekly_and_daily_trends_described_in_csv_files
